@@ -6,7 +6,7 @@ One interactive globe, **27 lenses** on the world — wealth, people, health, pl
 
 ![The World Atlas](preview.png)
 
-## The 22 lenses
+## The 27 lenses
 
 | Theme | Metrics |
 |---|---|
