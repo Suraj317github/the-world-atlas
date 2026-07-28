@@ -1,6 +1,6 @@
 # 🗺️ The World Atlas
 
-**Live: [the-world-atlas.vercel.app](https://the-world-atlas.vercel.app)**
+**Live: [the-world-atlas.vercel.app](https://world-atlas-suraj.vercel.app)**
 
 One interactive globe, **27 lenses** on the world — wealth, people, health, planet, power, and culture. Every country colored by the metric you choose, with three ways to view it: a draggable 3-D globe, a flat map, and a population cartogram where each country is a circle sized by its population.
 
