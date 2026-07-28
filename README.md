@@ -2,7 +2,7 @@
 
 **Live: [the-world-atlas.vercel.app](https://the-world-atlas.vercel.app)**
 
-One interactive globe, **22 lenses** on the world — wealth, people, health, planet, power, and culture. Every country colored by the metric you choose, with three ways to view it: a draggable 3-D globe, a flat map, and a population cartogram where each country is a circle sized by its population.
+One interactive globe, **27 lenses** on the world — wealth, people, health, planet, power, and culture. Every country colored by the metric you choose, with three ways to view it: a draggable 3-D globe, a flat map, and a population cartogram where each country is a circle sized by its population.
 
 ![The World Atlas](preview.png)
 
@@ -16,12 +16,13 @@ One interactive globe, **22 lenses** on the world — wealth, people, health, pl
 | **Planet** | CO₂ emissions per capita · Renewable electricity · Forest cover |
 | **Power** | Electoral democracy (V-Dem) · Corruption perception · Military spending |
 | **Culture** | Meat consumption · Alcohol consumption |
+| **Faith** | Majority religion · Christians % · Muslims % · Unaffiliated % · Hindus % (Pew Research 2020 — see the dedicated [Faiths of the World](https://faiths-of-the-world.vercel.app) map) |
 
 ## Features
 
 - **Three views** — 3-D globe (drag, zoom to 16×), flat map, and a Dorling cartogram (circle area = population, color = selected metric)
 - **Ranked tooltips** — hover any country: value + world rank
-- **Country profile** — click a country for all 22 metrics at once, with percentile bars
+- **Country profile** — click a country for all 27 metrics at once, with percentile bars
 - **Sortable table** per theme, **search** that flies to any country
 - 7,000+ place names appearing progressively with zoom, light & dark theme, responsive to phone screens
 
